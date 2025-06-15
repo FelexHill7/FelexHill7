@@ -1,7 +1,7 @@
 ## Hi I'm Felex ✨
 
 💻 Computer Science for Software Development at York University<br/>
-😆 Random Ideas and Projects Here
+😆 Random Ideas and Projects Here<br/>
 📝 Learning to Code<br/> 
 🤯 IDK What else to put rn<br/>
 
