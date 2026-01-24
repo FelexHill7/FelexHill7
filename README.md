@@ -2,8 +2,8 @@
 
 💻 Computer Science for Software Development at York University<br/>
 😆 Random Ideas and Projects Here<br/>
-📝 Learning to Code<br/> 
-🤯 IDK What else to put rn<br/>
+📝 Looking for Internship/Co-op<br/> 
+🤯 Willing to Learn<br/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felex-hill-1b530b330/) 
